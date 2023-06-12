@@ -1,0 +1,5 @@
+Echipe: Real Madrid vs. Inter
+Pret bilet: 900
+Numar bilete disponibile: 0
+Nume cumparator: Horga Daniel
+Metoda de plata: CASH
